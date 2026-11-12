@@ -23,16 +23,16 @@ This repository is integrated with **GitHub Actions**. On every push to the `mai
 ## 💻 How to Run Locally
 
 **1. Clone the repository:**
-\`\`\`bash
+```bash
 git clone https://github.com/ambujsolanki/E2E-Automation-Framework.git
-cd your-repo-name
-\`\`\`
+cd E2E-Automation-Framework
+```
 
 **2. Install dependencies:**
-\`\`\`bash
+```bash
 npm install
 npx playwright install
-\`\`\`
+```
 
 **3. Execute tests:**
 - Run all tests: `npx playwright test`
