@@ -1,0 +1,15 @@
+{
+  "name": "e2e-automation-framework",
+  "version": "1.0.0",
+  "description": "Automated E2E regression suite for an e-commerce platform demonstrating modern QA practices using Playwright, TypeScript, and Allure reporting.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.45.0",
+    "@types/node": "^20.6.6",
+    "playwright": "^1.45.0"
+  }
+}
